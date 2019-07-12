@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "읽어볼 글들 아카이빙"
-date: 2019-07-12 17:33:37 +1700
+date: 2019-07-12 17:33:37 +0900
 categories: general
 ---
 ### React
