@@ -22,3 +22,4 @@ categories: general
 - [velopert velog](https://velog.io/@velopert) : react
 - [landvibe Medium](https://medium.com/@ljs0705) : 실전 리액트 프로그래밍 저자
 - [DailyEngineering](https://hyunseob.github.io/) : Viva republica 웹개발자. typescript, react
+- [Overreacted](https://overreacted.io/) : Redux 창시자
