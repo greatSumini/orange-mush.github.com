@@ -15,7 +15,8 @@ categories: general
 
 ### 개발환경구축
 
-- 추가예정
+- [Next.js](https://velopert.com/3293)
+- [Next + GraphQL 레포](https://github.com/Alexloof/Next-GraphQL-Blog)
 
 ### 좋은 블로그들
 
